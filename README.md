@@ -1,9 +1,9 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1694044800&v=beta&t=zr4ocpFETLMm0fzf01dNZDsQgzzfajZuJSEtGUgWh70)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQHkQjU_IYm1YA/profile-displaybackgroundimage-shrink_350_1400/0/1691151896408?e=1701302400&v=beta&t=GnuwfsIwfhBZlZLKDjHVRSQcRHXSXhYJCfRd6YAJ6PE)
 
-<h1 align="center">Hi 👋, I'm Hüseyin ULU</h1>
-<h3 align="center">A passionate Full-Stack Developer from Turkiye</h3>
+<h1 align="center"><a href="https://huseyinulu.com"> Hi 👋, I'm Hüseyin ULU</a></h1>
+<h3 align="center" href="https://github.com/huseyinuluu?tab=repositories">A passionate Full-Stack Developer from Turkiye</h3>
 
-- 👨‍💻 All of my projects are available at [huseyinulu.com](huseyinulu.com)
+- 👨‍💻 All of my projects are available at [huseyinulu.com](https://huseyinulu.com)
 
 - 📫 How to reach me **freelancer.huseyin@gmail.com**
 
