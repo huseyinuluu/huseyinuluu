@@ -3,7 +3,7 @@
 <h1 align="center"><a href="https://huseyinulu.com"> Hi 👋, I'm Hüseyin ULU</a></h1>
 <h3 align="center" href="https://github.com/huseyinuluu?tab=repositories">A passionate Full-Stack Developer from Turkiye</h3>
 
-- 👨‍💻 All of my projects are available at [huseyinulu.com](https://huseyinulu.com)
+- 👨‍💻 All of my projects are available at [huseyinulu.com](http://huseyinulu.rf.gd)
 
 - 📫 How to reach me **freelancer.huseyin@gmail.com**
 
